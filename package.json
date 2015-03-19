@@ -1,0 +1,17 @@
+{
+  "name": "amd-webpack",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "handlebars": "^2.0.0",
+    "handlebars-loader": "^0.1.8",
+    "webpack": "^1.7.3"
+  }
+}
